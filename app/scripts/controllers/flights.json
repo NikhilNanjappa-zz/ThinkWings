@@ -1,0 +1,20 @@
+{
+  "flight_data": [
+  { "airline": "GoAir", "flight_number": "AF-667", "from":"New Delhi", "to":"Mumbai", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"38706"},
+  { "airline": "GoAir", "flight_number": "AF-621", "from":"New Delhi", "to":"Chennai", "departure":"18:00", "arrival":"21:00", "duration":"3", "cost":"35302"},
+  { "airline": "Indigo", "flight_number": "AF-736", "from":"Mumbai", "to":"New Delhi", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"20973"},
+  { "airline": "Luftahansa", "flight_number": "AF-582", "from":"Chennai", "to":"Kolkata", "departure":"18:00", "arrival":"21:00", "duration":"3", "cost":"30740"},
+  { "airline": "Luftahansa", "flight_number": "AF-704", "from":"Chennai", "to":"Bangalore", "departure":"18:00", "arrival":"19:00", "duration":"1", "cost":"10545"},
+  { "airline": "Jet Airways", "flight_number": "AF-131", "from":"Kolkata", "to":"Chandigarh", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"45262"},
+  { "airline": "Air India", "flight_number": "AF-241", "from":"Pune", "to":"Bangalore", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"19857"},
+  { "airline": "Air India", "flight_number": "AF-475", "from":"Pune", "to":"Lucknow", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"15259"},
+  { "airline": "Kingfisher", "flight_number": "AF-422", "from":"Bangalore", "to":"Patna", "departure":"18:00", "arrival":"21:00", "duration":"3", "cost":"32409"},
+  { "airline": "Kingfisher", "flight_number": "AF-816", "from":"Bangalore", "to":"Mumbai", "departure":"18:00", "arrival":"19:00", "duration":"1", "cost":"33628"},
+  { "airline": "GoAir", "flight_number": "AF-514", "from":"Jammu", "to":"New Delhi", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"33654"},
+  { "airline": "Indigo", "flight_number": "AF-536", "from":"Chandigarh", "to":"Kolkata", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"40000"},
+  { "airline": "Indigo", "flight_number": "AF-719", "from":"Chandigarh", "to":"Chennai", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"1564"},
+  { "airline": "Luftahansa", "flight_number": "AF-516", "from":"Lucknow", "to":"Chandigarh", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"9836"},
+  { "airline": "Luftahansa", "flight_number": "AF-314", "from":"Lucknow", "to":"Patna", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"19516"},
+  { "airline": "Jet Airways", "flight_number": "AF-595", "from":"Patna", "to":"Lucknow", "departure":"18:00", "arrival":"20:00", "duration":"2", "cost":"34604"}
+]
+}
