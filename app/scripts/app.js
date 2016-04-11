@@ -12,7 +12,7 @@ angular
   .module('flightTwApp', [
     'ngRoute',
     'ngSanitize',
-    'ui.slider'
+    'uiSlider'
   ])
   .config(function ($routeProvider) {
     $routeProvider
